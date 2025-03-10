@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" type = "text/css" href =  "{{ url_for('static',filename='css/style_form.css') }}" />
+ 
+  <!-- jQuery CDN Link -->
+  <script src="{{'https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js'}}"></script>
+  <title>UPLOAD</title>
+</head>
+ 
+<body>
+  <div class="container">
+    <div class="form">
+      <div class="btn">
+        <button class="uploadBtn">UPLOAD INFORMATION</button>
+      </div>
+      <form class="upload" action="/upload" method="POST" enctype="multipart/form-data">
+        <div class="formGroup">
+          
+          <input type="number" name = "id" id="Case_id" placeholder="CASE_ID :{{id}}" autocomplete="off" disabled>
+        </div>
+        
+        <div class="formGroup">
+          <input type="text" name = "name" id="userName" placeholder="Name" autocomplete="off">
+        </div>
+        <div class="formGroup">
+          <input type="number" placeholder="AGE" name="age" required autocomplete="off">
+        </div>
+        <div class="formGroup">
+          <input type="file" id="image" placeholder="image" required autocomplete="off">
+        </div>
+        <div class="formGroup">
+          <input type="number" id="phone" placeholder="Phone" required autocomplete="off">
+        </div>
+
+        <div class="formGroup">
+          <input type="text" id="description" placeholder="DESCRIPTION" required autocomplete="off">
+        </div>
+        
+        <div class="formGroup">
+          <button type="submit" class="btn2">REGISTER</button>
+        </div>
+ 
+      </form>
+      
+    </div>
+  </div>
+
+
+</body>
+ 
+</html>

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+
+    <title>FIND MISSING</title>
+    <meta content="" name="description" />
+    <meta content="" name="keywords" />
+
+    <!-- Favicons -->
+    <link href="{{'static/img/icons8-search-client-32.png'}}" rel="icon" />
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet" />
+
+    <!-- Vendor CSS Files -->
+    <link rel="stylesheet" href="{{url_for('static',filename='vendor/bootstrap/css/bootstrap.min.css')}}" />
+    <link rel="stylesheet" href="{{url_for('static',filename='vendor/boxicons/css/boxicons.min.css')}}" />
+    <link rel="stylesheet" href="{{url_for('static',filename='vendor/remixicon/remixicon.css')}}" />
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='css/style.css') }}" />
+</head>
+
+<body>
+    <!-- ======= Header ======= -->
+    <header id="header" class="fixed-top">
+        <div class="container d-flex align-items-center justify-content-lg-between">
+            <h1 class="logo me-auto me-lg-0">
+                <a href="/"><span>PEOPLE-FINDER</span></a>
+            </h1>
+            <!-- Uncomment below if you prefer to use an image logo -->
+            <a href="/" class="logo me-auto me-lg-0">
+                <img src="{{'static/img/icons8-search-client-32.png'}}" alt="" class="img-fluid" />
+            </a>
+
+            <nav id="navbar" class="navbar order-last order-lg-0">
+                <ul>
+                    <li>
+                        <a class="nav-link scrollto active" href="/upload">NEW CASE</a>
+                    </li>
+                    <li><a class="nav-link scrollto" href="/upload-existing">EXISTING</a></li>
+                    <li>
+                        <a class="nav-link scrollto" href="/test-model">TEST MODEL</a>
+                    </li>
+                    <li>
+                        <a class="nav-link scrollto" href="/train-model">TRAIN MODEL</a>
+                    </li>
+                    <li><a class="nav-link scrollto" href="#contact">CONTACT</a></li>
+                </ul>
+                <i class="bi bi-list mobile-nav-toggle"></i>
+            </nav>
+            <!-- .navbar -->
+        </div>
+    </header>
+    <!-- End Header -->
+
+    <!-- ======= Hero Section ======= -->
+    <section id="hero" class="d-flex align-items-center justify-content-center">
+        <div class="container shadow-lg rounded" style="margin: auto;width: 50%;border: 3px solid #ffc451; padding: 10px;height: 250px;">
+            <form action="/" >
+                <button type="submit">Button</button>
+            </form>
+        </div>
+    </section>
+    <!-- End Hero -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+        <div class="container">
+            <div class="copyright">
+                &copy; Copyright <strong><span>RANGERS</span></strong>. All Rights Reserved
+            </div>
+            <div class="credits">
+                Designed by <a href="https://bootstrapmade.com/">RANGERS</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="{{'static/js/main.js'}}"></script>
+</body>
+
+</html>
