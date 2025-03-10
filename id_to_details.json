@@ -1,0 +1,947 @@
+{
+  "1": {
+    "id": "1",
+    "name": "Adriana Lima",
+    "photo": "static/train_data/1/1_1.jpg",
+    "age": "",
+    "where_found": "fghfghfh",
+    "description": "odghostohosud",
+    "contact": ""
+  },
+  "2": {
+    "id": "2",
+    "name": "Alex Lawther",
+    "photo": "static/train_data/2/2_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "3": {
+    "id": "3",
+    "name": "Alexandra Daddario",
+    "photo": "static/train_data/3/3_1.jpg",
+    "age": "",
+    "where_found": "mukul k ghr pe",
+    "description": "",
+    "contact": ""
+  },
+  "4": {
+    "id": "4",
+    "name": "Alvaro Morte",
+    "photo": "static/train_data/4/4_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "5": {
+    "id": "5",
+    "name": "alycia dabnem carey",
+    "photo": "static/train_data/5/5_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "6": {
+    "id": "6",
+    "name": "Amanda Crew",
+    "photo": "static/train_data/6/6_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "7": {
+    "id": "7",
+    "name": "amber heard",
+    "photo": "static/train_data/7/7_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "8": {
+    "id": "8",
+    "name": "Andy Samberg",
+    "photo": "static/train_data/8/8_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "9": {
+    "id": "9",
+    "name": "Anne Hathaway",
+    "photo": "static/train_data/9/9_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "10": {
+    "id": "10",
+    "name": "Anthony Mackie",
+    "photo": "static/train_data/10/10_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "11": {
+    "id": "11",
+    "name": "Avril Lavigne",
+    "photo": "static/train_data/11/11_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "12": {
+    "id": "12",
+    "name": "barack obama",
+    "photo": "static/train_data/12/12_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "13": {
+    "id": "13",
+    "name": "barbara palvin",
+    "photo": "static/train_data/13/13_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "14": {
+    "id": "14",
+    "name": "Ben Affleck",
+    "photo": "static/train_data/14/14_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "15": {
+    "id": "15",
+    "name": "Bill Gates",
+    "photo": "static/train_data/15/15_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "16": {
+    "id": "16",
+    "name": "Bobby Morley",
+    "photo": "static/train_data/16/16_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "17": {
+    "id": "17",
+    "name": "Brenton Thwaites",
+    "photo": "static/train_data/17/17_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "18": {
+    "id": "18",
+    "name": "Brian J. Smith",
+    "photo": "static/train_data/18/18_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "19": {
+    "id": "19",
+    "name": "Brie Larson",
+    "photo": "static/train_data/19/19_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "20": {
+    "id": "20",
+    "name": "camila mendes",
+    "photo": "static/train_data/20/20_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "21": {
+    "id": "21",
+    "name": "Chris Evans",
+    "photo": "static/train_data/21/21_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "22": {
+    "id": "22",
+    "name": "Chris Hemsworth",
+    "photo": "static/train_data/22/22_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "23": {
+    "id": "23",
+    "name": "Chris Pratt",
+    "photo": "static/train_data/23/23_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "24": {
+    "id": "24",
+    "name": "Christian Bale",
+    "photo": "static/train_data/24/24_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "25": {
+    "id": "25",
+    "name": "Cristiano Ronaldo",
+    "photo": "static/train_data/25/25_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "26": {
+    "id": "26",
+    "name": "Danielle Panabaker",
+    "photo": "static/train_data/26/26_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "27": {
+    "id": "27",
+    "name": "Dominic Purcell",
+    "photo": "static/train_data/27/27_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "28": {
+    "id": "28",
+    "name": "Dwayne Johnson",
+    "photo": "static/train_data/28/28_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "29": {
+    "id": "29",
+    "name": "Eliza Taylor",
+    "photo": "static/train_data/29/29_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "30": {
+    "id": "30",
+    "name": "Elizabeth Lail",
+    "photo": "static/train_data/30/30_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "31": {
+    "id": "31",
+    "name": "elizabeth olsen",
+    "photo": "static/train_data/31/31_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "32": {
+    "id": "32",
+    "name": "ellen page",
+    "photo": "static/train_data/32/32_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "33": {
+    "id": "33",
+    "name": "elon musk",
+    "photo": "static/train_data/33/33_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "34": {
+    "id": "34",
+    "name": "Emilia Clarke",
+    "photo": "static/train_data/34/34_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "35": {
+    "id": "35",
+    "name": "Emma Stone",
+    "photo": "static/train_data/35/35_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "36": {
+    "id": "36",
+    "name": "Emma Watson",
+    "photo": "static/train_data/36/36_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "37": {
+    "id": "37",
+    "name": "gal gadot",
+    "photo": "static/train_data/37/37_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "38": {
+    "id": "38",
+    "name": "grant gustin",
+    "photo": "static/train_data/38/38_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "39": {
+    "id": "39",
+    "name": "Gwyneth Paltrow",
+    "photo": "static/train_data/39/39_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "40": {
+    "id": "40",
+    "name": "Henry Cavil",
+    "photo": "static/train_data/40/40_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "41": {
+    "id": "41",
+    "name": "Hugh Jackman",
+    "photo": "static/train_data/41/41_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "42": {
+    "id": "42",
+    "name": "Inbar Lavi",
+    "photo": "static/train_data/42/42_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "43": {
+    "id": "43",
+    "name": "Irina Shayk",
+    "photo": "static/train_data/43/43_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "44": {
+    "id": "44",
+    "name": "Jake Mcdorman",
+    "photo": "static/train_data/44/44_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "45": {
+    "id": "45",
+    "name": "Jason Momoa",
+    "photo": "static/train_data/45/45_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "46": {
+    "id": "46",
+    "name": "jeff bezos",
+    "photo": "static/train_data/46/46_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "47": {
+    "id": "47",
+    "name": "Jennifer Lawrence",
+    "photo": "static/train_data/47/47_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "48": {
+    "id": "48",
+    "name": "Jeremy Renner",
+    "photo": "static/train_data/48/48_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "49": {
+    "id": "49",
+    "name": "Jessica Barden",
+    "photo": "static/train_data/49/49_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "50": {
+    "id": "50",
+    "name": "Jimmy Fallon",
+    "photo": "static/train_data/50/50_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "51": {
+    "id": "51",
+    "name": "Johnny Depp",
+    "photo": "static/train_data/51/51_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "52": {
+    "id": "52",
+    "name": "Josh Radnor",
+    "photo": "static/train_data/52/52_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "53": {
+    "id": "53",
+    "name": "Katharine Mcphee",
+    "photo": "static/train_data/53/53_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "54": {
+    "id": "54",
+    "name": "Katherine Langford",
+    "photo": "static/train_data/54/54_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "55": {
+    "id": "55",
+    "name": "Keanu Reeves",
+    "photo": "static/train_data/55/55_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "56": {
+    "id": "56",
+    "name": "kiernen shipka",
+    "photo": "static/train_data/56/56_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "57": {
+    "id": "57",
+    "name": "Krysten Ritter",
+    "photo": "static/train_data/57/57_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "58": {
+    "id": "58",
+    "name": "Leonardo DiCaprio",
+    "photo": "static/train_data/58/58_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "59": {
+    "id": "59",
+    "name": "Lili Reinhart",
+    "photo": "static/train_data/59/59_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "60": {
+    "id": "60",
+    "name": "Lindsey Morgan",
+    "photo": "static/train_data/60/60_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "61": {
+    "id": "61",
+    "name": "Lionel Messi",
+    "photo": "static/train_data/61/61_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "62": {
+    "id": "62",
+    "name": "Logan Lerman",
+    "photo": "static/train_data/62/62_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "63": {
+    "id": "63",
+    "name": "Madelaine Petsch",
+    "photo": "static/train_data/63/63_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "64": {
+    "id": "64",
+    "name": "Maisie Williams",
+    "photo": "static/train_data/64/64_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "65": {
+    "id": "65",
+    "name": "margot robbie",
+    "photo": "static/train_data/65/65_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "66": {
+    "id": "66",
+    "name": "Maria Pedraza",
+    "photo": "static/train_data/66/66_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "67": {
+    "id": "67",
+    "name": "Marie Avgeropoulos",
+    "photo": "static/train_data/67/67_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "68": {
+    "id": "68",
+    "name": "Mark Ruffalo",
+    "photo": "static/train_data/68/68_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "69": {
+    "id": "69",
+    "name": "Mark Zuckerberg",
+    "photo": "static/train_data/69/69_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "70": {
+    "id": "70",
+    "name": "Megan Fox",
+    "photo": "static/train_data/70/70_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "71": {
+    "id": "71",
+    "name": "melissa fumero",
+    "photo": "static/train_data/71/71_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "72": {
+    "id": "72",
+    "name": "Miley Cyrus",
+    "photo": "static/train_data/72/72_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "73": {
+    "id": "73",
+    "name": "Millie Bobby Brown",
+    "photo": "static/train_data/73/73_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "74": {
+    "id": "74",
+    "name": "Morena Baccarin",
+    "photo": "static/train_data/74/74_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "75": {
+    "id": "75",
+    "name": "Morgan Freeman",
+    "photo": "static/train_data/75/75_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "76": {
+    "id": "76",
+    "name": "Nadia Hilker",
+    "photo": "static/train_data/76/76_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "77": {
+    "id": "77",
+    "name": "Natalie Dormer",
+    "photo": "static/train_data/77/77_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "78": {
+    "id": "78",
+    "name": "Natalie Portman",
+    "photo": "static/train_data/78/78_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "79": {
+    "id": "79",
+    "name": "Neil Patrick Harris",
+    "photo": "static/train_data/79/79_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "80": {
+    "id": "80",
+    "name": "Pedro Alonso",
+    "photo": "static/train_data/80/80_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "81": {
+    "id": "81",
+    "name": "Penn Badgley",
+    "photo": "static/train_data/81/81_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "82": {
+    "id": "82",
+    "name": "Rami Malek",
+    "photo": "static/train_data/82/82_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "83": {
+    "id": "83",
+    "name": "Rebecca Ferguson",
+    "photo": "static/train_data/83/83_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "84": {
+    "id": "84",
+    "name": "Richard Harmon",
+    "photo": "static/train_data/84/84_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "85": {
+    "id": "85",
+    "name": "Rihanna",
+    "photo": "static/train_data/85/85_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "86": {
+    "id": "86",
+    "name": "Robert De Niro",
+    "photo": "static/train_data/86/86_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "87": {
+    "id": "87",
+    "name": "Robert Downey Jr",
+    "photo": "static/train_data/87/87_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "88": {
+    "id": "88",
+    "name": "Sarah Wayne Callies",
+    "photo": "static/train_data/88/88_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "89": {
+    "id": "89",
+    "name": "scarlett johansson",
+    "photo": "static/train_data/89/89_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "90": {
+    "id": "90",
+    "name": "Selena Gomez",
+    "photo": "static/train_data/90/90_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "91": {
+    "id": "91",
+    "name": "Shakira Isabel Mebarak",
+    "photo": "static/train_data/91/91_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "92": {
+    "id": "92",
+    "name": "Sophie Turner",
+    "photo": "static/train_data/92/92_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "93": {
+    "id": "93",
+    "name": "Stephen Amell",
+    "photo": "static/train_data/93/93_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "94": {
+    "id": "94",
+    "name": "Taylor Swift",
+    "photo": "static/train_data/94/94_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "95": {
+    "id": "95",
+    "name": "Tom Cruise",
+    "photo": "static/train_data/95/95_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "96": {
+    "id": "96",
+    "name": "tom ellis",
+    "photo": "static/train_data/96/96_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "97": {
+    "id": "97",
+    "name": "Tom Hardy",
+    "photo": "static/train_data/97/97_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "98": {
+    "id": "98",
+    "name": "Tom Hiddleston",
+    "photo": "static/train_data/98/98_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "99": {
+    "id": "99",
+    "name": "Tom Holland",
+    "photo": "static/train_data/99/99_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "100": {
+    "id": "100",
+    "name": "Tuppence Middleton",
+    "photo": "static/train_data/100/100_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "101": {
+    "id": "101",
+    "name": "Ursula Corbero",
+    "photo": "static/train_data/101/101_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "102": {
+    "id": "102",
+    "name": "Wentworth Miller",
+    "photo": "static/train_data/102/102_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "103": {
+    "id": "103",
+    "name": "Zac Efron",
+    "photo": "static/train_data/103/103_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "104": {
+    "id": "104",
+    "name": "Zendaya",
+    "photo": "static/train_data/104/104_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  },
+  "105": {
+    "id": "105",
+    "name": "Zoe Saldana",
+    "photo": "static/train_data/105/105_1.jpg",
+    "age": "",
+    "where_found": "",
+    "description": "",
+    "contact": ""
+  }
+}

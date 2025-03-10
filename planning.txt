@@ -1,0 +1,28 @@
+
+
+- Upload a new case
+- Find a case
+- View all people (with images)
+- View single Person - (two people can have same name)- use id
+
+
+
+people = [Person1, Person2, ....]
+Person = {
+    id,
+    name,
+    photo,
+    age,
+    where found,
+    description,
+    contact(if any),
+
+}
+
+
+test_data(directory): 
+    Folders: 1,2,3,4,5,6,7,8,....
+    Each folder is a case
+
+
+When we click on the image, whole profile should be displayed.
